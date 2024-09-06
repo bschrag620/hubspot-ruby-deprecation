@@ -33,3 +33,5 @@ end
 
 # Alias the module for those looking to use the stylized name HubSpot
 HubSpot = Hubspot
+
+DeprecatedHubspot = Hubspot
