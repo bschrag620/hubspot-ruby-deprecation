@@ -16,7 +16,7 @@ http_interactions:
       - 'false'
       Content-Type:
       - application/json; charset=UTF-8
-      X-Hubspot-Notfound:
+      X-DeprecatedHubspot-Notfound:
       - 'true'
       Content-Length:
       - '199'

@@ -16,7 +16,7 @@ http_interactions:
       - 'false'
       Content-Type:
       - application/json; charset=UTF-8
-      X-Hubspot-Notfound:
+      X-DeprecatedHubspot-Notfound:
       - 'true'
       X-Trace:
       - 1B41F22567BAE9B8C25CFB9119D6288D57041F0FFD6E9486A26FC614EA

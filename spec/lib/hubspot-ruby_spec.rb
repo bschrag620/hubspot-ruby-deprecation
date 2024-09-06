@@ -1,8 +1,8 @@
-describe Hubspot do
+describe DeprecatedHubspot do
   describe "#configure" do
-    it "delegates a call to Hubspot::Config.configure" do
-      mock(Hubspot::Config).configure({hapikey: "demo"})
-      Hubspot.configure hapikey: "demo"
+    it "delegates a call to DeprecatedHubspot::Config.configure" do
+      mock(DeprecatedHubspot::Config).configure({hapikey: "demo"})
+      DeprecatedHubspot.configure hapikey: "demo"
     end
   end
 end

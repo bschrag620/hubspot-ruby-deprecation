@@ -1,8 +1,8 @@
 ## 0.6.1 (November 29, 2018)
 
 * [#146] Deprecate the use of the hubspot rake tasks. Deprecating these tasks
-  includes deprecating the use of `Hubspot::Utils.dump_properties` and
-  `Hubspot::Utils.restore_properties`.
+  includes deprecating the use of `DeprecatedHubspot::Utils.dump_properties` and
+  `DeprecatedHubspot::Utils.restore_properties`.
 
 [#146]: https://github.com/adimichele/hubspot-ruby/pull/146
 
@@ -14,7 +14,7 @@
 
 ## 0.6.0 (November 28, 2018)
 
-* [#141] Add `HubSpot` as an alias of `Hubspot`
+* [#141] Add `HubSpot` as an alias of `DeprecatedHubspot`
 
 [#141]: https://github.com/adimichele/hubspot-ruby/pull/140
 

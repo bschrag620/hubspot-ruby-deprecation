@@ -25,13 +25,13 @@ http_interactions:
         16:25:34 GMT; path=/; domain=.hubapi.com; HttpOnly
       X-Trace:
       - 2BF349589BFBAE83FE736A318A842CD15CE36AA6A8000000000000000000
-      X-Hubspot-Ratelimit-Daily:
+      X-DeprecatedHubspot-Ratelimit-Daily:
       - '160000'
-      X-Hubspot-Ratelimit-Daily-Remaining:
+      X-DeprecatedHubspot-Ratelimit-Daily-Remaining:
       - '139305'
-      X-Hubspot-Ratelimit-Secondly:
+      X-DeprecatedHubspot-Ratelimit-Secondly:
       - '60'
-      X-Hubspot-Ratelimit-Secondly-Remaining:
+      X-DeprecatedHubspot-Ratelimit-Secondly-Remaining:
       - '59'
       Vary:
       - Accept-Encoding, User-Agent

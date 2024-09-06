@@ -27,13 +27,13 @@ http_interactions:
         18:48:57 GMT; path=/; domain=.hubapi.com; HttpOnly
       X-Trace:
       - 2BE7539DF2FB94A7AF9F9F9918489B684BF488FB19000000000000000000
-      X-Hubspot-Ratelimit-Daily:
+      X-DeprecatedHubspot-Ratelimit-Daily:
       - '160000'
-      X-Hubspot-Ratelimit-Daily-Remaining:
+      X-DeprecatedHubspot-Ratelimit-Daily-Remaining:
       - '131707'
-      X-Hubspot-Ratelimit-Secondly:
+      X-DeprecatedHubspot-Ratelimit-Secondly:
       - '60'
-      X-Hubspot-Ratelimit-Secondly-Remaining:
+      X-DeprecatedHubspot-Ratelimit-Secondly-Remaining:
       - '59'
       Vary:
       - Accept-Encoding
@@ -80,13 +80,13 @@ http_interactions:
         18:48:57 GMT; path=/; domain=.hubapi.com; HttpOnly
       X-Trace:
       - 2B095549FFE7FE3BE09ECAA1AEAAEB15C89461DD8A000000000000000000
-      X-Hubspot-Ratelimit-Daily:
+      X-DeprecatedHubspot-Ratelimit-Daily:
       - '160000'
-      X-Hubspot-Ratelimit-Daily-Remaining:
+      X-DeprecatedHubspot-Ratelimit-Daily-Remaining:
       - '131706'
-      X-Hubspot-Ratelimit-Secondly:
+      X-DeprecatedHubspot-Ratelimit-Secondly:
       - '60'
-      X-Hubspot-Ratelimit-Secondly-Remaining:
+      X-DeprecatedHubspot-Ratelimit-Secondly-Remaining:
       - '58'
       Vary:
       - Accept-Encoding
@@ -131,13 +131,13 @@ http_interactions:
         18:49:01 GMT; path=/; domain=.hubapi.com; HttpOnly
       X-Trace:
       - 2B4DC7D153AEC996294155D87D5A8B61BDB89E1C59000000000000000000
-      X-Hubspot-Ratelimit-Daily:
+      X-DeprecatedHubspot-Ratelimit-Daily:
       - '160000'
-      X-Hubspot-Ratelimit-Daily-Remaining:
+      X-DeprecatedHubspot-Ratelimit-Daily-Remaining:
       - '131701'
-      X-Hubspot-Ratelimit-Secondly:
+      X-DeprecatedHubspot-Ratelimit-Secondly:
       - '60'
-      X-Hubspot-Ratelimit-Secondly-Remaining:
+      X-DeprecatedHubspot-Ratelimit-Secondly-Remaining:
       - '58'
       Vary:
       - Accept-Encoding
@@ -182,13 +182,13 @@ http_interactions:
         18:49:02 GMT; path=/; domain=.hubapi.com; HttpOnly
       X-Trace:
       - 2B0A469B779D51950FF09F8866A5704FBEB73DF8A6000000000000000000
-      X-Hubspot-Ratelimit-Daily:
+      X-DeprecatedHubspot-Ratelimit-Daily:
       - '160000'
-      X-Hubspot-Ratelimit-Daily-Remaining:
+      X-DeprecatedHubspot-Ratelimit-Daily-Remaining:
       - '131700'
-      X-Hubspot-Ratelimit-Secondly:
+      X-DeprecatedHubspot-Ratelimit-Secondly:
       - '60'
-      X-Hubspot-Ratelimit-Secondly-Remaining:
+      X-DeprecatedHubspot-Ratelimit-Secondly-Remaining:
       - '59'
       Vary:
       - Accept-Encoding

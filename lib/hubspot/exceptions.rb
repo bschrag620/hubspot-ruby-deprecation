@@ -1,4 +1,4 @@
-module Hubspot
+module DeprecatedHubspot
   class RequestError < StandardError
     attr_accessor :response
 

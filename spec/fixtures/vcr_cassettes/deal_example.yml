@@ -85,14 +85,14 @@ http_interactions:
         },
         "hubspot_owner_assigneddate": {
             "source": "API",
-            "sourceId": "PopulateHubspotOwnerAssignedDate",
+            "sourceId": "PopulateDeprecatedHubspotOwnerAssignedDate",
             "timestamp": 1404916626079,
             "value": "1397487780732",
             "versions": [
                 {
                     "name": "hubspot_owner_assigneddate",
                     "source": "API",
-                    "sourceId": "PopulateHubspotOwnerAssignedDate",
+                    "sourceId": "PopulateDeprecatedHubspotOwnerAssignedDate",
                     "sourceVid": [],
                     "timestamp": 1404916626079,
                     "value": "1397487780732"

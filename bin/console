@@ -11,7 +11,7 @@ require "hubspot-ruby"
 # Pry.start
 
 # Configure with the demo key by default
-Hubspot.configure(hapikey: 'demo')
+DeprecatedHubspot.configure(hapikey: 'demo')
 
 require "irb"
 IRB.start(__FILE__)

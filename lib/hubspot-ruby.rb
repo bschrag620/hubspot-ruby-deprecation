@@ -23,15 +23,10 @@ require 'hubspot/subscription'
 require 'hubspot/oauth'
 require 'hubspot/file'
 
-module Hubspot
+module DeprecatedHubspot
   def self.configure(config={})
-    Hubspot::Config.configure(config)
+    DeprecatedHubspot::Config.configure(config)
   end
 
   require 'hubspot/railtie' if defined?(Rails)
 end
-
-# Alias the module for those looking to use the stylized name HubSpot
-HubSpot = Hubspot
-
-DeprecatedHubspot = Hubspot

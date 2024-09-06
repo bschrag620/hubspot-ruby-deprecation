@@ -27,13 +27,13 @@ http_interactions:
         19:02:51 GMT; path=/; domain=.hubapi.com; HttpOnly
       X-Trace:
       - 2B9C9E5B9C91FEF490E8F642B326434A48DAE397D0000000000000000000
-      X-Hubspot-Ratelimit-Daily:
+      X-DeprecatedHubspot-Ratelimit-Daily:
       - '160000'
-      X-Hubspot-Ratelimit-Daily-Remaining:
+      X-DeprecatedHubspot-Ratelimit-Daily-Remaining:
       - '131327'
-      X-Hubspot-Ratelimit-Secondly:
+      X-DeprecatedHubspot-Ratelimit-Secondly:
       - '60'
-      X-Hubspot-Ratelimit-Secondly-Remaining:
+      X-DeprecatedHubspot-Ratelimit-Secondly-Remaining:
       - '59'
       Vary:
       - Accept-Encoding
@@ -78,13 +78,13 @@ http_interactions:
         19:02:52 GMT; path=/; domain=.hubapi.com; HttpOnly
       X-Trace:
       - 2BE77DD6F32F314FC7F3B714CC090BD1D9347F1BAB000000000000000000
-      X-Hubspot-Ratelimit-Daily:
+      X-DeprecatedHubspot-Ratelimit-Daily:
       - '160000'
-      X-Hubspot-Ratelimit-Daily-Remaining:
+      X-DeprecatedHubspot-Ratelimit-Daily-Remaining:
       - '131326'
-      X-Hubspot-Ratelimit-Secondly:
+      X-DeprecatedHubspot-Ratelimit-Secondly:
       - '60'
-      X-Hubspot-Ratelimit-Secondly-Remaining:
+      X-DeprecatedHubspot-Ratelimit-Secondly-Remaining:
       - '59'
       Vary:
       - Accept-Encoding
@@ -129,13 +129,13 @@ http_interactions:
         19:02:52 GMT; path=/; domain=.hubapi.com; HttpOnly
       X-Trace:
       - 2B175552A37BD6FAB4B542B62992D5784D43DA1314000000000000000000
-      X-Hubspot-Ratelimit-Daily:
+      X-DeprecatedHubspot-Ratelimit-Daily:
       - '160000'
-      X-Hubspot-Ratelimit-Daily-Remaining:
+      X-DeprecatedHubspot-Ratelimit-Daily-Remaining:
       - '131325'
-      X-Hubspot-Ratelimit-Secondly:
+      X-DeprecatedHubspot-Ratelimit-Secondly:
       - '60'
-      X-Hubspot-Ratelimit-Secondly-Remaining:
+      X-DeprecatedHubspot-Ratelimit-Secondly-Remaining:
       - '58'
       Vary:
       - Accept-Encoding
